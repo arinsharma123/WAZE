@@ -1,5 +1,6 @@
 
 ![Logo](https://seeklogo.com/images/W/waze-logo-906569F21A-seeklogo.com.png)
+![lor](https://github.com/arinsharma123/WAZE/assets/128144029/d9c7e855-e6a3-4639-af22-c094d0e098ef)
 
 
 # WAZE - Churn Analysis and Model Building
