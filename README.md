@@ -43,8 +43,9 @@ The Project involves the use of a single dataset. The dataset contains 12 featur
 
 ## Previews of some of the analytical data viz 
 
-![gitimg5](https://github.com/arinsharma123/WAZE/assets/128144029/1d5b84c7-2d79-4380-84e6-9fcc8a1d4f81)
-![gitimg4](https://github.com/arinsharma123/WAZE/assets/128144029/bdb0cac1-4331-4688-8de6-bc9e8f56fe35)
 ![gitimg3](https://github.com/arinsharma123/WAZE/assets/128144029/b271f319-0610-468f-8dd9-dcd7bc547306)
 ![gitimg2](https://github.com/arinsharma123/WAZE/assets/128144029/8807b34f-c4b3-4219-8d50-5e15fac89cae)
 ![gitimg1](https://github.com/arinsharma123/WAZE/assets/128144029/939d67c5-0c5a-43bf-9cc5-71137323aa0e)
+![gitimg5](https://github.com/arinsharma123/WAZE/assets/128144029/1d5b84c7-2d79-4380-84e6-9fcc8a1d4f81)
+![gitimg4](https://github.com/arinsharma123/WAZE/assets/128144029/bdb0cac1-4331-4688-8de6-bc9e8f56fe35)
+
